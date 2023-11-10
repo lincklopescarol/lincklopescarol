@@ -1,4 +1,4 @@
-### Olá, me chamo Carolina! 👋
+### Olá, me chamo Carolina e aqui você pode conferir meus projetos! 👋
 
 - 👩‍💻 Sou estudante de Programação, estudo desenvolvimento Back-end e desenvolvimento Front-end. 
 - 💻 Gosto muito de trabalhar em equipe e aprender coisas novas.
