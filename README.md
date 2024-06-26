@@ -1,6 +1,7 @@
 ## Olá, me chamo Carolina! 👋
 
-- 💻 Sou estudante de Programação, estudo desenvolvimento Back-end e desenvolvimento Front-end. 
+- 💻 Sou Técnica em Informática.
+- 📂 Atualmente estou fazendo Bacharelado em Engenharia de Software. 
 - 🌱 Estou sempre aberta para aprender mais e para me desenvolver!
 - 🖱️ Aqui estão as tecnologias em que possuo conhecimento, juntamente com meu contato de Linkedin.
 <br>
